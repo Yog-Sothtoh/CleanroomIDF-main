@@ -1,0 +1,11 @@
+[
+	{
+		"modid": "thetitans",
+		"name": "The Titans Mod",
+		"description": "A mod that adds 19 gigantic Titan mob bosses to your world, along with a slew of other things.",
+		"version": "0.495",
+		"mcversion": "1.12.2",
+		"authorList": ["Enderman_of_D00M"],
+		"updateJSON": ""
+	}
+]
